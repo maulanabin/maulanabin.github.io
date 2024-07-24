@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 <p align="center">
-  <strong>🌌Welcome to my corner of the digital universe!🌌</strong>
+  <strong>Welcome </strong>
 </p>
 
-<center>🕵️‍♂️🔍🕵️‍♂️</center>
+<!-- <center>🕵️‍♂️🔍🕵️‍♂️</center>
 I'm a dedicated explorer in the realm of artificial intelligence, with a particular passion for delving into the intricate world of machine learning. My journey has led me to the fascinating realm of data modeling, where I revel in crafting solutions for both structured and unstructured data. Whether it's unraveling the secrets of computer vision, deciphering the nuances of natural language processing, or navigating the complexities of time series analysis, I find my greatest joy in these intellectual adventures.
 
 <center>🧑‍💻🥼🧑‍💻</center>
@@ -22,4 +22,4 @@ I firmly believe that the path to progress is paved with collaboration and share
 
 <p align="center">
   <strong>🌌Here's to pushing boundaries, unraveling mysteries, and creating a future woven with the threads of innovation🌌</strong>
-</p>
+</p> -->
