@@ -1,27 +1,27 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-    #url: https://scholar.google.com/citations?user=VtFoSwsAAAAJ&hl=en 
+  # - title: "Publications"
+  #   url: /publications/
+  #   #url: https://scholar.google.com/citations?user=VtFoSwsAAAAJ&hl=en 
 
   - title: "Certificate"
-    url: /certificate/  
+    url: /certificates/  
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: /portfolios/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
 
   #- title: "Talks"
   #  url: /talks/   
     
-  - title: "CV"
-    #url: /cv/
-    url: /files/CV-M Hamid A.pdf
+  # - title: "CV"
+  #   #url: /cv/
+  #   url: /files/CV-M Hamid A.pdf
     
   #- title: "Guide"
   #  url: /markdown/ #here's the tutorial for markdown
