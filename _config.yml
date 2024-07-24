@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hamid's Homepage"
+title                    : "Maulana's Homepage"
 title_separator          : "-"
-name                     : &name "Mohammad Hamid Asnawi"
+name                     : &name "Maulana Bintang Irfansyah"
 description              : &description "personal description"
-url                      : https://mhamidasn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://maulanabin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mhamidasn/mhamidasn.github.io"
+repository               : "maulanabin/maulanabin.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mohammad Hamid Asnawi"
+  name             : "Maulana Bintang Irfansyah"
   avatar           : "profile.jpg"
-  bio              : "AI, Machine Learning, Data Enthusiast!"
-  location         : "Melbourne, Australia"
+  bio              : 
+  location         : "Surabaya, Jawa Timur"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=VtFoSwsAAAAJ&hl=en"
+  googlescholar    :
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Mohammad-Asnawi"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mhamidasn"
+  github           : 
   google_plus      :
   keybase          :
-  instagram        : "mhamidasn"
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "mhamidasn"
-  orcid            : "https://orcid.org/0000-0002-3543-1703"
+  linkedin         :
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
