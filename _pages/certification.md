@@ -1,45 +1,25 @@
 ---
-title: Hamid's Certification Archive
+title: Maulana's Certification Archive
 permalink: /certificate/
 author_profile: true
 ---
-Click on the related title certificate to verify and see its certification and credibility.
 
 ## Certification
-1. [Google TensorFlow Developer](https://www.credential.net/f3e45511-bf13-4c45-a85d-69e69e58a6ef)
-2. IELTS Academic - C1 (advanced/proficient user)
-<br>
+1. [Junior Network Administrator - Indonesian Professional Certification Authority (BNSP)](https://drive.google.com/file/d/1oDYb5xPQExoj7383geL__YHo3I9F74Xy/view?usp=sharing)
+2. [Junior Web Developer - Indonesian Professional Certification Authority (BNSP)](https://drive.google.com/file/d/1EOOkXbW4YoH7CmK_oJ1FnXJuWRwsoA1E/view?usp=sharing)
+3. [TOEIC](https://drive.google.com/file/d/1h7PWlX1vJGI51SizShN7TnCz8A48teoJ/view?usp=sharing)
 
-## Specialization
-1. [“Mathematics for Machine Learning Specialization”](https://www.coursera.org/account/accomplishments/specialization/certificate/XT8NQZJQ6Y25) developed by Imperial College London and Coursera
-2. [“Google IT Automation with Python Specialization”](https://www.coursera.org/account/accomplishments/specialization/certificate/BCDG283DDZA2) developed by Google and Coursera
-3. [“TensorFlow: Data and Deployment”](https://www.coursera.org/account/accomplishments/specialization/certificate/SFFGYAF3GB9M) specialization developed by DeepLearning.AI and Coursera.
-4. [“DeepLearning.AI TensorFlow Developer”](https://www.coursera.org/account/accomplishments/specialization/certificate/8D7QZYFZKK6C) specialization developed by DeepLearning.AI and Coursera
 <br>
 
 ## Course Certificate
 * Coursera
-  1. [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/account/accomplishments/certificate/KXVFS24ZBTH4)
-  2. [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/account/accomplishments/certificate/DL5DEQGJWLJP)
-  3. [Mathematics for Machine Learning: PCA](https://www.coursera.org/account/accomplishments/certificate/R6PLQDY9SEG9)
-  4. [Configuration Management and the Cloud](https://www.coursera.org/account/accomplishments/certificate/E4CBLBXZ8CH8)
-  5. [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/AWNFKFK7RSKJ)
-  6. [Automating Real-World Tasks with Python](https://www.coursera.org/account/accomplishments/certificate/LDYEFUT2GEM9)
-  7. [Using Python to Interact with the Operating System](https://www.coursera.org/account/accomplishments/certificate/3GHSRGF6A68U)
-  8. [Crash Course on Python](https://www.coursera.org/account/accomplishments/certificate/JYLYJL4H6927)
-  9. [Troubleshooting and Debugging Techniques](https://www.coursera.org/account/accomplishments/certificate/49XYLDTC6YYQ)
-  10. [Introduction to Git and Github](https://www.coursera.org/account/accomplishments/certificate/FHF4P7DZUQH6)
-  11. [Browser-based Models with TensorFlow.js](https://www.coursera.org/account/accomplishments/certificate/LJQDRZNABHTM)
-  12. [Device-based Models with TensorFlow Lite](https://www.coursera.org/account/accomplishments/certificate/7MSCVVL2WW7A)
-  13. [Data Pipelines with TensorFlow Data Services](https://www.coursera.org/account/accomplishments/certificate/8WR6FFLA9JQK)
-  14. [Advanced Deployment Scenarios with TensorFlow](https://www.coursera.org/account/accomplishments/certificate/2BCFCZHJJ4NG)
-  15. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/LN79CFZJK2JF)
-  16. [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/D8ZAXE7NVL3W)
-  17. [Natural Language Processing in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/CHRPTHV7BTG6)
-  18. [Sequences, Time Series and Prediction](https://www.coursera.org/account/accomplishments/certificate/A37KJUSTA9PG)
-  19. [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/certificate/VX9DNMJ3X6G9)
-  20. [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/certificate/SE7F3ZTLJQ8Y)
-* Udemy
+  1. [Google IT Support](https://coursera.org/share/d9c00fee4a0d457ade611cbe5938958b)
+  2. [IT Security: Defense against the digital dark arts](https://coursera.org/share/8cea90abe7d1b2cc1221d24593f8b81f)
+  3. [Operating Systems and You: Becoming a Power User](https://coursera.org/share/40cb1a76cb73fdc0fcc3a4743b934ef4)
+  4. [System Administration and IT Infrastructure Services](https://coursera.org/share/489ad40bd72984dfbfddb2156b07051b)
+  5. [The Bits and Bytes of Computer Networking](https://coursera.org/share/f45e0b5ab943e706271a27b5037eb23a)
+  6. [Technical Support Fundamentals](https://coursera.org/share/478e032ec5cb7f149fc35a7fea35f8e4)
+<!-- * Udemy
   1. [Growth mindset : The complete guide](https://www.udemy.com/certificate/UC-b2779964-5e1e-4ab6-ab26-af97929597eb/)
   2. [Master your Decision-Making, and Critical Thinking Skills!](https://www.udemy.com/certificate/UC-2d17d250-21f3-4a18-adb0-cd99f0842720/)
   3. [Introduction to Agile : Scrum and Kanban](https://www.udemy.com/certificate/UC-27b571d6-2e31-4e10-ae10-f1387e475322/)
@@ -60,4 +40,4 @@ Click on the related title certificate to verify and see its certification and c
   1. [Introduction to Data Science with Python](https://academy.dqlab.id/Certificate_check/result/DQLABINTP1LLTKIS#mycertificate)
   2. [Introduction to Data Science with R](https://academy.dqlab.id/Certificate_check/result/DQLABBGINRCBCCVV#mycertificate)
   3. [Quiz Basic Analytics](https://academy.dqlab.id/Certificate_check/result/DQLABQBDA1PCFPKC#mycertificate)
-  4. [Quiz Basic Excel](https://academy.dqlab.id/Certificate_check/result/DQLABQEDP1AOROLS#mycertificate)
+  4. [Quiz Basic Excel](https://academy.dqlab.id/Certificate_check/result/DQLABQEDP1AOROLS#mycertificate) -->
