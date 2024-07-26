@@ -42,7 +42,7 @@ author_profile: true
   20. [Deploy Kubernetes Applications on Google Cloud](https://www.cloudskillsboost.google/public_profiles/824652c6-c160-4790-b344-10085a7e0a98/badges/3641224)
   21. [Develop Serverless Applications on Cloud Run](https://www.cloudskillsboost.google/public_profiles/824652c6-c160-4790-b344-10085a7e0a98/badges/3650039)
   22. [Hybrid Cloud Modernizing Applications with Anthos](https://www.cloudskillsboost.google/public_profiles/824652c6-c160-4790-b344-10085a7e0a98/badges/3653419)
-  * Dicoding ✨
+* Dicoding ✨
   1. [Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/QLZ92NMWEX5D)
   2. [Pengenalan ke Logika Pemrograman - Programming Logic 101](https://www.dicoding.com/certificates/07Z6GQ2LWXQR)
   3. [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/JLX1LRG92X72)
